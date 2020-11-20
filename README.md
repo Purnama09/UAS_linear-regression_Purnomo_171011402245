@@ -1,0 +1,2 @@
+# UAS_linear-regression_Purnomo_171011402245
+UAS_Kecerdasan_Buatan
